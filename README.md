@@ -54,3 +54,28 @@ Ayush Phadatare
 📧 Email
 📌 GitHub
 
+
+## Design
+
+# hero section
+![image](https://github.com/user-attachments/assets/b6ba3c7d-9f7b-4749-aee8-026ea46987be)
+
+# About Section
+![image](https://github.com/user-attachments/assets/7a93ac18-6e6f-472f-bd83-75fea3380eb5)
+
+# Resume section
+![image](https://github.com/user-attachments/assets/bbeaa725-4679-4ac9-82b0-7e8ef448aa11)
+
+# Services Section
+![image](https://github.com/user-attachments/assets/da1adebb-e127-4de9-9336-e4732ac34197)
+
+# Portfoilo Section
+![image](https://github.com/user-attachments/assets/f906d641-ccea-4952-ab58-af23028b5982)
+
+# contact us Section
+![Uploading image.png…]()
+
+
+
+
+
